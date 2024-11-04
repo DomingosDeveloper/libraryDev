@@ -11,6 +11,8 @@
     <h3> Express </h3>
     <h3> React </h3>
     <h3> MongoDB</h3>
+  <h2> Arch </h2>
+  <h3>Route -> Controller -> Repo <- Repository -> Mongo</h3>
 </div>
 
 <div>
