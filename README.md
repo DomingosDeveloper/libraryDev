@@ -2,7 +2,7 @@
   <h2> Connecting to MongoDB </h2>
     <h3> Be sure ur .env is configured to pass his values as PORT, URL, PW and User to Configuration function.</h3>
   <h2> Depedencies </h2>
-  <h3> Dont forget to install all dependecies typing npm install on terminal.</h3>
+  <h3> Dont forget to install all dependecies inside backend and frontend, typing npm install on each terminal.</h3>
 </div>
 
 <div>
@@ -25,7 +25,7 @@
       <li> Post /books creates a book</li>
       <li> Patch /books/:id Updates a book</li>
       <li> Delete /books/:id Deletes a book </li>
-  <  /ul>
+    </ul>
 </div>
 
 <div>
