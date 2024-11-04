@@ -34,3 +34,6 @@
     <h3> BackEnd: Go to /backend/src and type *npm run start:dev* at the terminal.</h3>
     <h3> Will be running by default on port 3000, both.</h3>
 </div>
+
+
+<p> My first try on TS. :) </p>
