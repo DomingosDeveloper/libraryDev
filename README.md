@@ -18,6 +18,14 @@
 <div>
   <h2> Entity </h2>
     <h3> Book </h3>
+    <p> {
+  id: string;
+  title: string;
+  author: string;
+  publishedYear: string;
+  subject: string;
+  quantity: number;
+}</p>
 </div>
 
 <div>
